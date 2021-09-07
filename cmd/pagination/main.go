@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	orders "github.com/maxkondel/go-task-orders"
+	orders "github.com/maxkondel/go-task-orders/pagination"
 
 	"github.com/gofiber/fiber"
 )
